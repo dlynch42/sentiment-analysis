@@ -76,7 +76,3 @@ The best model achieved a test **accuracy of 39.13%**. The results were lower th
 ## Conclusion
 
 Despite the efforts to optimize the model, the achieved accuracy was below expectations. Over-processing of data may have contributed to this result. Future work could involve experimenting with different preprocessing techniques, trying alternative model architectures, or using additional data to improve performance.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
