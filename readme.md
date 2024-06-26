@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a Recurrent Neural Network (RNN) model for sentiment analysis using TensorFlow and Keras. The goal is to classify text data into positive or negative sentiments. We use GridSearchCV to fine-tune hyperparameters and improve the model's accuracy.
+This project implements a Recurrent Neural Network (RNN) model for sentiment analysis using TensorFlow and Keras. The goal is to classify text data into positive, neutral, or negative sentiments. We use GridSearchCV to fine-tune hyperparameters and improve the model's accuracy.
 
 ## Table of Contents
 
@@ -71,8 +71,4 @@ We focused on the following hyperparameters to optimize the model:
 
 ## Results
 
-The best model achieved a test **accuracy of 39.13%**. The results were lower than expected, likely due to over-processing the data. The original text sequences were short, and excessive preprocessing reduced the amount of useful data.
-
-## Conclusion
-
-Despite the efforts to optimize the model, the achieved accuracy was below expectations. Over-processing of data may have contributed to this result. Future work could involve experimenting with different preprocessing techniques, trying alternative model architectures, or using additional data to improve performance.
+The best model achieved a test **accuracy of 73.45%**. The results were lower than expected, likely due to over-processing the data. The original text sequences were short, and excessive preprocessing reduced the amount of useful data.
