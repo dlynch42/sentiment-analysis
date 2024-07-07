@@ -12,8 +12,6 @@ This project implements a Recurrent Neural Network (RNN) model for sentiment ana
 - [Model Architecture](#model-architecture)
 - [Hyperparameters](#hyperparameters)
 - [Results](#results)
-- [Conclusion](#conclusion)
-- [License](#license)
 
 ## Installation
 
